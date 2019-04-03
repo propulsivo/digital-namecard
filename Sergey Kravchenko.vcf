@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Sergey;Kravchenko;;;
-FN: Kravchenko Sergey 
+PRODID:-//Apple Inc.//iPhone OS 12.1.1//EN
+N:Kravchenko;Sergey;;;
+FN: Sergey Kravchenko 
 ORG:V-A-C Foundation;
 TITLE:CTO\nGES-2
 EMAIL;type=INTERNET;type=WORK;type=pref:sergey.kravchenko@v-a-c.ru
-TEL;type=WORK;type=VOICE:+7 965 178 8577
+TEL;type=CELL;type=VOICE:+7 965 178 8577
 item1.ADR;type=WORK;type=pref:;;Gogolevsky Boulevard 11;Moscow;;119019;Russia
 item1.X-ABADR:us
 item2.URL;type=pref:v-a-c.ru
