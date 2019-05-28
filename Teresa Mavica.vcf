@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 12.1.1//EN
+N:Iarocci Mavica;Teresa;;;
+FN: Teresa Mavica 
+ORG:V-A-C Foundation;
+TITLE:Director
+EMAIL;type=INTERNET;type=WORK;type=pref:teresa.mavica@v-a-c.ru
+TEL;type=CELL;type=VOICE:+7 903 723 3121
+item1.ADR;type=WORK;type=pref:;;Gogolevsky blvd, 11;Moscow;;119019;Russia
+item1.X-ABADR:us
+item2.URL;type=pref:v-a-c.org
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
